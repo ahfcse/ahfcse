@@ -61,7 +61,9 @@ RDLC, Crystal Reports
 ---
 
 ### 📫 **Let’s Connect**  
-www.linkedin.com/in/foysal-4529902a4
+[![Email](https://img.shields.io/badge/Email-ahfcse@gmail.com-blue?style=flat&logo=gmail)](mailto:ahfcse@gmail.com)  
+[![LinkedIn](#)](www.linkedin.com/in/foysal-4529902a4) 
+
 
 ---
 
